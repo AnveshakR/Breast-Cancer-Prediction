@@ -5,3 +5,6 @@ dataset/
 *.pkl
 *.h5
 notebooks/data_processing_subset.ipynb
+/dataset/train_images
+/dataset/test_images
+*.png

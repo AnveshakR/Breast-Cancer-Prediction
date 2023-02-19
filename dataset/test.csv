@@ -1,0 +1,5 @@
+site_id,patient_id,image_id,laterality,view,age,implant,machine_id,prediction_id
+2,10008,736471439,L,MLO,81,0,21,10008_L
+2,10008,1591370361,L,CC,81,0,21,10008_L
+2,10008,68070693,R,MLO,81,0,21,10008_R
+2,10008,361203119,R,CC,81,0,21,10008_R
