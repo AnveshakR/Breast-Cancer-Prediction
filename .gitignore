@@ -1,3 +1,7 @@
 images/
+dataset/
 *.png
 *.csv
+*.pkl
+*.h5
+notebooks/data_processing_subset.ipynb
