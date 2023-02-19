@@ -1,4 +1,3 @@
-./dataset/train_images
-./dataset/test_images
+/dataset/train_images
+/dataset/test_images
 *.png
-/dataset
