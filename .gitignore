@@ -1,7 +1,9 @@
 images/
+images copy/
 dataset/
 *.png
 *.csv
 *.pkl
 *.h5
+homework/
 notebooks/data_processing_subset.ipynb
