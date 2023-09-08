@@ -2,7 +2,6 @@
 
 |  Anveshak Rathore  |  Akshay Kolli  |  Prathyusha Reddy Nandikonda |  Lalitha Spoorthy Dantuluri |
 |-----------------------------|--------------------------|------------------------------|------------------------------|
-|  02036112    |  02069804 |  02028214    |  02049811    |
 |  Miner School of Computer & Information Sciences, Kennedy College of Sciences, University of Massachusetts, Lowell |  Miner School of Computer & Information Sciences, Kennedy College of Sciences, University of Massachusetts, Lowell |  Miner School of Computer & Information Sciences, Kennedy College of Sciences, University of Massachusetts, Lowell Lowell |  Miner School of Computer & Information Sciences, Kennedy College of Sciences, University of Massachusetts, Lowell |
 |  anveshak_rathore@student.uml.edu |  akshay_kolli@student.uml.edu |  prathyushareddy_nandikonda@student.uml.edu |  LalithaSpoorthy_Dantuluri@student.uml.edu |
 
